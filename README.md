@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate kode developer from India</h3>
 
-- 🔭 I’m currently working on [Kodezone](Kodezone.42web.io)
+- 🔭 I’m currently working on [Kode zone](https://kodezone.42web.io/)
 
 - 🌱 I’m currently learning **Python**
 
