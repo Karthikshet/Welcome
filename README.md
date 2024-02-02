@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm karthik</h1>
+<h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate kode developer from India</h3>
 
-- 🔭 I’m currently working on [Kodezone](Kodezone.in)
+- 🔭 I’m currently working on [Kodezone](Kodezone.42web.io)
 
 - 🌱 I’m currently learning **Python**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Some open source project**
 
-- 💬 Ask me about **Come join with me 🙂**
+- 💬 Ask me about **!**
 
 - 📫 How to reach me **karthikshet21@yahoo.com**
 
